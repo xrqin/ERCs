@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: CC0-1.0
 pragma solidity ^0.8.24;
 
-/// @notice Minimal reference surface for the agent off-chain conditional
+/// @notice Minimal reference surface for the off-chain conditional
 /// settlement extension. A complete reference implementation with tests is
 /// maintained at https://github.com/Aboudjem/erc-8203-ref.
 interface IAgentConditionalSettlementExtension {
